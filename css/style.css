@@ -443,6 +443,7 @@ fill: #2196F3;
   width: 370px;
   height: 404px;
 }
+
 .poster-item:nth-child(3n) {
   margin-right: 0;
 }
